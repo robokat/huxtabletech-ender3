@@ -1,2 +1,2 @@
-# huxtabletech-ender3
+# Huxtable Technologies Ender 3 Pro
 Huxtable Technologies repository to manage configurations and documentation for the Creality Ender 3 Pro 3D printer.
